@@ -1,0 +1,30 @@
+# Compiled executables
+first_file
+second_file
+third_file
+fourth_file
+fifth_file
+
+# Object files
+*.o
+
+# Debugging / profiling files
+*.dSYM/
+*.gdb_history
+
+# Core dumps
+core
+core.*
+*.core
+
+# VS Code
+.vscode/
+
+# Temporary files
+*~
+*.swp
+*.swo
+
+# OS-generated files
+.DS_Store
+Thumbs.db
